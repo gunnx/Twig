@@ -1,0 +1,22 @@
+{
+  "name": "twig",
+  "version": "1.0.0",
+  "description": "## Summary Write function groupArrayElements that follows these requirements: ``` Given an array of length >= 0, and a positive integer N, return the contents of the array divided into N equally sized arrays.",
+  "main": "groupArrayElements.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunnx/Twig.git"
+  },
+  "author": "Keith Gunn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunnx/Twig/issues"
+  },
+  "homepage": "https://github.com/gunnx/Twig#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
